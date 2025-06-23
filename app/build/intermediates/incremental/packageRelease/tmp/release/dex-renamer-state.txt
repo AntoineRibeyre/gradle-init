@@ -1,0 +1,7 @@
+#Mon Jun 23 14:52:07 CEST 2025
+base.0=/Users/antoineribeyre/Desktop/EPITECH/PRÉ-MSC/04_PROJETS/08_FINAL_YEAR_PROJECT/YEP-App/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+base.1=/Users/antoineribeyre/Desktop/EPITECH/PRÉ-MSC/04_PROJETS/08_FINAL_YEAR_PROJECT/YEP-App/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
